@@ -1,0 +1,8 @@
+{
+  "MainFunction":{
+    "WAMBDA_DENY_SIGNUP":"true",
+    "WAMBDA_DEBUG":"true",
+    "WAMBDA_USE_MOCK":"true",
+    "WAMBDA_NO_AUTH":"true"
+  }
+}
